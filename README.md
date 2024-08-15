@@ -20,6 +20,7 @@
 - [Learning Exposure](#learning-exposure)
 - [Resources](#resources)
 - [Technologies Used](#technologies-used)
+- [Deployed On](#build)
 - [Setting Up and Running the App Locally](#setting-up-and-running-the-app-locally)
 - [Build](#build)
 - [Project Admin](#project-admin)
@@ -53,14 +54,16 @@ In the rapidly evolving retail landscape, enhancing customer engagement and sati
 AR-Bazaar provides a dynamic e-commerce platform where users can view and interact with 3D photorealistic models of products in a 360° viewer. Experience products like chairs, photo frames, and cars as if they were physically present in your space through our AR functionality.
 
 <a name="preview"></a>
-## 👀 Live Demo
+## 🌐 Live Demo
+🚀 [Visit Now](https://ar-bazaar.netlify.app/)
 
-[Live Demo](https://ar-bazaar.netlify.app/)
 
 <div style="display:flex; justify-content: center;">
   <img src="https://github.com/mdfaizaanalam/AR-Bazaar/blob/main/public/chair1.jpg" alt="Product View" height="450"/>
   <img src="https://github.com/mdfaizaanalam/AR-Bazaar/blob/main/public/chair2.jpg" alt="AR View" height="450"/>
 </div>
+
+
 
 <a name="future-goals"></a>
 ## 🤩 Future Goals
@@ -93,6 +96,16 @@ Gain expertise in XR using tools like Three.js and Unity to push the boundaries 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+<a name="Deployed On"></a>
+## 🚀 Deployed On
+
+<p align="left">
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" alt="Netlify" width="150" height="120"/>
+  </a>
+</p>
 
 <a name="setting-up-and-running-the-app-locally"></a>
 ## 🔥 Setting Up and Running the App Locally
