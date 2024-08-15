@@ -20,7 +20,7 @@
 - [Learning Exposure](#learning-exposure)
 - [Resources](#resources)
 - [Technologies Used](#technologies-used)
-- [Deployed On](#Deployed)
+- [Deployed On](#Deployed-On)
 - [Setting Up and Running the App Locally](#setting-up-and-running-the-app-locally)
 - [Build](#build)
 - [Project Admin](#project-admin)
@@ -99,7 +99,7 @@ Gain expertise in XR using tools like Three.js and Unity to push the boundaries 
 
 
 <a name="Deployed On"></a>
-## 🚀 Deployed
+## 🚀 Deployed On
 <p align="left">
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" alt="Netlify" width="150" height="120"/>
