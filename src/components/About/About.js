@@ -69,7 +69,7 @@ const About = () => {
         </div>
       </div>
       <div>
-        <h1 className="second-head fromtop-anim">Why AR WEBSTORE?</h1>
+        <h1 className="second-head fromtop-anim">Why AR Bazaar?</h1>
         <div className="prob-box">
           <img src={img1} className="prob-img left-img-effect" alt="Problem Image 1" />
           <div className="about-prob fade-effect">
