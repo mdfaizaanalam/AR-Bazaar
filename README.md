@@ -53,7 +53,7 @@ In the rapidly evolving retail landscape, enhancing customer engagement and sati
 AR-Bazaar provides a dynamic e-commerce platform where users can view and interact with 3D photorealistic models of products in a 360° viewer. Experience products like chairs, photo frames, and cars as if they were physically present in your space through our AR functionality.
 
 <a name="preview"></a>
-## 👀 Preview
+## 👀 Live Demo
 
 [Live Demo](https://ar-bazaar.netlify.app/)
 
